@@ -6,7 +6,7 @@
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2958/)**
 <!-- run online end -->
-This example demonstrates how to sort the Grid View's columns that contain values of integer and string types.
+This example demonstrates how to sort the Grid View's column that contains values of integer and string types.
 
 ![Implement Custom Sorting Algorithm](result.png)
 
