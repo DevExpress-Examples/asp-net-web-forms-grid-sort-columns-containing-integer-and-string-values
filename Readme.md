@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to sort a column that contains integer and string values
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2958/)**
+**[[Run Online]](https://codecentral.devexpress.com/128543060/)**
 <!-- run online end -->
 This example demonstrates how to sort columns in the Grid View that contain integer and string values.
 
