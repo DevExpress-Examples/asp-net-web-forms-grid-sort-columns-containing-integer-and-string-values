@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to sort a column that contains integer and string values
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128543060/)**
-<!-- run online end -->
 This example demonstrates how to sort columns in the Grid View that contain integer and string values.
 
 ![Implement Custom Sorting Algorithm](result.png)
